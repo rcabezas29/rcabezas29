@@ -1,7 +1,5 @@
 ### Raúl Cabezas González
 
-[![NTop languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&theme=blue-green)](https://github.com/rcabezas29/github-readme-stats)
-
 <!--
 **rcabezas29/rcabezas29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
