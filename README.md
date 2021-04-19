@@ -11,7 +11,7 @@
 
 * 🌱 Student at [42Madrid](https://42madrid.com/)
 
-## Languages
+## Languages
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
