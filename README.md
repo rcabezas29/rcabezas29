@@ -7,7 +7,7 @@
 <a href="https://twitter.com/raulcabezasg">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🌱 Student at [42Madrid](https://42madrid.com/)
 
