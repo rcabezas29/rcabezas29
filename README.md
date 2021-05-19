@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/user/rkabe294">
 	<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&layout=compact&theme=nord&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🌱 Student at [42Madrid](https://42madrid.com/)
 
