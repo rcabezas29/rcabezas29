@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcabezas29&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![rcabezas's 42 stats](https://badge42.herokuapp.com/api/stats/rcabezas)](https://github.com/JaeSeoKim/badge42)
+[![rcabezas's 42 stats](https://badge42.herokuapp.com/api/stats/rcabezas?privacyEmail=true) (https://github.com/JaeSeoKim/badge42)
 
 
 * 🌱 Student at [42Madrid](https://42madrid.com/)
