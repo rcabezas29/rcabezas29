@@ -1,7 +1,5 @@
 # Raúl Cabezas González
 
-<a href="https://instagram.com/raulcabezasgonzalez">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://www.linkedin.com/in/rcabezasgonzlz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://twitter.com/raulcabezasg">
