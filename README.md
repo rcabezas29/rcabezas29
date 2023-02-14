@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl Cabezas</h1>
-<h3 align="center">Software developer from Spain. Studying at [42 Madrid](https://42.fr/en/homepage/).</h3>
+<h3 align="center">Software developer from Spain. Studying at [42 Madrid](https://42.fr/en/homepage/)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcabezas29" alt="rcabezas29" /></a> </p>
 
