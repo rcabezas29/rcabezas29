@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/rcabezas29/ft_transcendence)
 
-- 🌱 I’m currently learning **TS, Python and Rust**
+- 🌱 I’m currently learning **Quantum, Graphics and ML**
 
 - 📫 How to reach me **raul.29cg@gmail.com**
 
