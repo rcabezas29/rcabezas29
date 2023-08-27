@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raúl Cabezas</h1>
-<h3 align="center">Software developer from Spain. Studying at <a href="https://42.fr/en/homepage/">42 Madrid</a></h3>
+<h3 align="center">Software developer from Spain. Studying and working at <a href="https://42.fr/en/homepage/">42 Madrid</a></h3>
 
-- 🔭 I’m currently working on [Scop]()
+- 🔭 I’m currently working on [DSLR]()
 
-- 🌱 I’m currently learning **Quantum Computing, Graphics and ML**
+- 🌱 I’m currently learning **Graphics and ML**
 
 - 📫 How to reach me **raul.29cg@gmail.com**
 
