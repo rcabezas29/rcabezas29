@@ -113,7 +113,7 @@
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/540aea7402d3346054cdf71f385ce91d40fc4b524b2bbfd6cba05724e3eedfc3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72636162657a617332392673686f775f69636f6e733d74727565267468656d653d6461726b266c6f63616c653d656e" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcabezas29&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=php" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcabezas29&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=php" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rcabezas29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
