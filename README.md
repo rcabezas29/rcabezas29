@@ -115,7 +115,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rcabezas29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcabezas29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rcabezas29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  [![rcabezas's 42 stats](https://badge42.vercel.app/api/v2/cl2dlit7w004909l1ebtvsjdo/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
+  [![rcabezas's 42 stats](https://badge42.vercel.app/api/v2/cl2dlit7w004909l1ebtvsjdo/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)]
 </div>
 
 ###
