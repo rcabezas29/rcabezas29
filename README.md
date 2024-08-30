@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Software Developer from Madrid, Spain 🗺<br><br>- 🔭 I’m working as DevOps and Data in 42 Madrid, where I'm also student.<br>- 📚 I'm currently learning ML, Cybersecurity and Graphics.<br>- 📡 I'm interested and always looking for info about graphic renderings omptimization based on AI/ML.<br>- 🛠 I have also studies in Robotics and Automation.</p>
+<p align="left">Software Developer from Madrid, Spain 🗺<br><br>- 🔭 I’m working as C++ Developer at Capgemini.<br>- 📚 I'm currently learning ML, Cybersecurity and Graphics.<br>- 📡 I'm interested and always looking for info about graphic renderings omptimization based on AI/ML.<br>- 🛠 I have also studies in Robotics and Automation.</p>
 
 ###
 
