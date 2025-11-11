@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Software Developer from Madrid, Spain 🗺<br><br>- 🔭 I’m working as C++ Developer at Capgemini.<br>- 📚 I'm currently learning ML, Cybersecurity and Graphics in 42 Madrid.<br>- 📡 I'm interested and always looking for info about graphic renderings omptimization based on AI/ML.<br>- 🛠 I have also studies in Robotics and Automation.</p>
+<p align="left">Software Developer from Madrid, Spain 🗺<br><br>- 🔭 I’m working as C++ Developer at Indra<br>- 📚 I'm currently learning ML, Cybersecurity and Graphics in 42 Madrid.<br>- 📡 I'm interested and always looking for info about graphic renderings omptimization based on AI/ML.<br>- 🛠 I have also studies in Robotics and Automation.</p>
 
 ###
 
@@ -116,13 +116,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcabezas29&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=php,jupyter%20notebook" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rcabezas29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-[![rcabezas's 42 stats](https://badge42.vercel.app/api/v2/cl2dlit7w004909l1ebtvsjdo/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&user=rkabe294" alt="Spotify recently played"  />
-</div>
-
-###
